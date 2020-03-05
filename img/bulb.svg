@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.25 18.75">
+  <title>bulb</title>
+  <g id="Bulb">
+    <ellipse cx="5.12" cy="8.63" rx="5" ry="8.5" style="fill: #fff;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+  </g>
+  <g id="cap">
+    <rect x="0.62" y="12.63" width="9" height="6" style="fill: #fff;stroke: #000;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+  </g>
+</svg>
