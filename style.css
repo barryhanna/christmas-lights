@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas&display=swap');
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Mountains of Christmas', serif;
+	text-align: center;
+	font-size: 2rem;
+	background-color: #407f07;
+	color: #fff;
+}
+
+.container {
+	width: 800px;
+}
+
+svg {
+	height: 50px;
+	width: 50px;
+}
+
+#bulb ellipse {
+	fill: red !important;
+	stroke: none !important;
+}
+
+#cap rect {
+	fill: grey !important;
+	stroke: none !important;
+}
